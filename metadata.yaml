@@ -1,0 +1,35 @@
+_repo: A-history-of-the-mathematical-theories-of-attraction-and-the-figure-of-the-earth-from-the-tim__69832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Todhunter, I. (Isaac)
+    alias: Todhunter, Isaac
+    birthdate: 1820
+    deathdate: 1884
+    gutenberg_agent_id: '8873'
+    url: http://www.gutenberg.org/2009/agents/8873
+    wikipedia: https://en.wikipedia.org/wiki/Isaac_Todhunter
+description: ''
+gutenberg_issued: '2023-01-21'
+identifiers:
+  gutenberg: '69832'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924007369170
+pgterms:marc905: 20201211002926todhunter
+pgterms:marc906: '1873'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Macmillan and co.,1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Attractions of ellipsoids'
+- !lcsh 'Rotating masses of fluid'
+- !lcsh 'Earth (Planet) -- Figure'
+- !lcc 'QB'
+- GITenberg
+title: A history of the mathematical theories of attraction and the figure of the
+  earth from the time of Newton to that of Laplace. Volume 2
+url: http://www.gutenberg.org/ebooks/69832
